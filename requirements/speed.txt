@@ -1,2 +1,2 @@
-msgspec~=0.18.1
+msgspec~=0.18.2
 aiohttp[speedups]
